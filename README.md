@@ -1,12 +1,13 @@
 # badmc
 An OpenGL demo.
 
-Libs:
-  GLFW 
+# Libraries:
+
+  [GLFW](https://github.com/glfw/glfw)
   
-  GLEW 
+  [GLEW](https://github.com/nigels-com/glew)
   
-  GLM (header) 
+  [GLM](https://github.com/g-truc/glm) 
   
-  STB (header) 
+  [STB](https://github.com/nothings/stb) 
   
