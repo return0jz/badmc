@@ -2,8 +2,11 @@
 An OpenGL demo.
 
 Libs:
-  GLFW \
-  GLEW \ 
-  GLM (header) \
-  STB (header) \
+  GLFW 
+  
+  GLEW 
+  
+  GLM (header) 
+  
+  STB (header) 
   
