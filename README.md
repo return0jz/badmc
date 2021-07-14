@@ -1,5 +1,5 @@
 # badmc
-An OpenGL demo.
+An OpenGL demo (kept for code reuse)
 
 # Libraries:
 
